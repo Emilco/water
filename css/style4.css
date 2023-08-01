@@ -1,0 +1,26 @@
+body {
+    background-color: skyblue;
+    height: 100%;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+a { 
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+.video-container {
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
